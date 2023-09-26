@@ -56,6 +56,9 @@ div{
     color: #c4c4c4;
 }
 
+.blue > h2{
+    color: #c4c4c4;
+}
 
 .yellow{
     background-color: #ffff00;
